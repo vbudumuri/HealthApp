@@ -1,0 +1,27 @@
+{
+  "name": "healthapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbudumuri/HealthApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbudumuri/HealthApp/issues"
+  },
+  "homepage": "https://github.com/vbudumuri/HealthApp#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
